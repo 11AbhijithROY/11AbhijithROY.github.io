@@ -3,7 +3,7 @@
 #### I'm a Data Scientist at Carelon and a recent undergrad from NIT, Trichy, India. My research interests lies in Natural Language Processing, Cloud Architectures, and Interpertability of ML models. I also like to pictures of the sky and give scathing movie reviews. For a more comprehensive read, check out my CV. 
 
 ## Education 			        		
-- B.Tech., Computer Science and Engineering | National Institute of Technology, Trichy, India (_Sept. 2019 - May 2023_)
+B.Tech., Computer Science and Engineering | National Institute of Technology, Trichy, India (_Sept. 2019 - May 2023_)
 
 ## Work Experience
 **Data Scientist @ Carelon Global Solutions LLP (Elevance Health INC) (_July 2023 - Present_)**
@@ -26,19 +26,19 @@ Medical Images, NaBIC (2023).
 ### Credit Card Fraud Detection Analysis
 <!-- [Publication](https://www.mdpi.com/1424-8220/22/8/3048) -->
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+-  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
 
 <!-- ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg) -->
 
 ### Quora Insincere Question Classification
 <!-- [Publication](https://www.mdpi.com/1424-8220/22/11/4240) -->
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+-  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
 
 <!-- ![Bike Study](/assets/img/bike_study.jpeg) -->
 
 ### Basics of Blockchain
 <!-- [Publication](https://www.mdpi.com/1424-8220/22/11/4240) -->
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+-  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
 
