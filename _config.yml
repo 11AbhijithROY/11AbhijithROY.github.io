@@ -1,9 +1,9 @@
 title: Abhijith Roy # your name (or website title) here
 logo: "/images/pic.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  email : roy dot abhijith11 at gmail.com
+  email : roy dot abhijith at gmail.com 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/abhijith-roy/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
