@@ -1,6 +1,6 @@
 # Hello!
 
-#### I'm a Data Scientist at Carelon and a recent undergrad from NIT, Trichy, India. My research interests lies broadly in Natural Language Processing, particularly in Representation Learning, Ontology Engineering, and Ethical AI. I was advised by [Dr. A. Santhanavijayan](https://nitt.irins.org/profile/93079) during my undergraduate thesis and [Dr. Gerard Deepak](https://scholar.google.com/citations?user=miP5DQ8AAAAJ&hl=en) during my time as a research assistant at Manipal Institue of Technology, Bengaluru.  I also like to pictures of the sky and give scathing [movie reviews](https://letterboxd.com/feluba/). For a more comprehensive read, check out my [CV](https://11abhijithroy.github.io/images/abhijithscv.pdf). 
+#### I'm a Data Scientist at Carelon and a recent undergrad from NIT, Trichy, India. My research interests lies broadly in Natural Language Processing, particularly in Representation Learning, Ontology Engineering, and Ethical AI. I was advised by [Dr. A. Santhanavijayan](https://nitt.irins.org/profile/93079) during my undergraduate thesis and [Dr. Gerard Deepak](https://scholar.google.com/citations?user=miP5DQ8AAAAJ&hl=en) during my time as a research assistant at Manipal Institue of Technology, Bengaluru.  I also like to pictures of the sky and give scathing [movie reviews](https://letterboxd.com/feluba/). For a more comprehensive read, check out my [CV](pdf/abhijithscv.pdf). 
 
 ## Education 			        		
 B.Tech., Computer Science and Engineering | National Institute of Technology, Trichy, India (_Sept. 2019 - May 2023_)
@@ -25,8 +25,8 @@ B.Tech., Computer Science and Engineering | National Institute of Technology, Tr
 - Developed a chat bot that uses natural language query to output (PostgreSQL) billing details for auditing purposes. 
 
 ## Publications
-1. *Abhijith Roy and Gerard Deepak*, **Ontology Synthesis and Generation Using AI Orientated Hybrid Learning for Microeconomics**, Hybrid Intelligent Systems (2023).
-2. *Abhijith Roy and Gerard Deepak*, **Semantically Driven Model for Web Image Tagging using Diverse Tag Selection for Medical Images**, NaBIC (2023).
+1. *Abhijith Roy and Gerard Deepak*, **[Ontology Synthesis and Generation Using AI Orientated Hybrid Learning for Microeconomics](pdf/AbhijithRoyHIS.pdf)**, Hybrid Intelligent Systems (2023).
+2. *Abhijith Roy and Gerard Deepak*, **[Semantically Driven Model for Web Image Tagging using Diverse Tag Selection for Medical Images](pdf/SDDS3.pdf)**, NaBIC (2023).
 
 ## Preprints
 1. *Abhijith Roy and Gerard Deepak*, **Video Recommendation Encompassing Semantics Driven Optimisation**
