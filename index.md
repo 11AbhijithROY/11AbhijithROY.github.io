@@ -1,6 +1,6 @@
 # Hello!
 
-#### I'm a Data Scientist at Carelon and a recent undergrad from NIT, Trichy, India. My research interests lies broadly in Natural Language Processing, particularly in Representation Learning, Ontology Engineering, and Ethical AI. I was advised by [Dr. A. Santhanavijayan](https://nitt.irins.org/profile/93079) during my undergraduate thesis and [Dr. Gerard Deepak](https://scholar.google.com/citations?user=miP5DQ8AAAAJ&hl=en) during my time as a research assistant at Manipal Institue of Technology, Bengaluru.  I also like to pictures of the sky and give scathing [movie reviews](https://letterboxd.com/feluba/). For a more comprehensive read, check out my [CV](pdf/abhijithscv.pdf). 
+#### I'm a Data Scientist at Carelon and a recent undergrad from NIT, Trichy, India. My research interests lies broadly in Natural Language Processing, particularly in Representation Learning, Ontology Engineering, and Ethical AI. I was advised by [Dr. A. Santhanavijayan](https://nitt.irins.org/profile/93079) during my undergraduate thesis and [Dr. Gerard Deepak](https://scholar.google.com/citations?user=miP5DQ8AAAAJ&hl=en) during my time as a research assistant at Manipal Institue of Technology, Bengaluru.  I also like to pictures of the sky and give [movie reviews](https://letterboxd.com/feluba/). For a more comprehensive read, check out my [CV](pdf/abhijithscv.pdf). 
 
 ## Education 			        		
 B.Tech., Computer Science and Engineering | National Institute of Technology, Trichy, India (_Sept. 2019 - May 2023_)
