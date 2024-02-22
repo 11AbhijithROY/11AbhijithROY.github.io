@@ -28,11 +28,9 @@ B.Tech., Computer Science and Engineering | National Institute of Technology, Tr
 1. *Abhijith Roy and Gerard Deepak*, **[Ontology Synthesis and Generation Using AI Orientated Hybrid Learning for Microeconomics](pdf/AbhijithRoyHIS.pdf)**, Hybrid Intelligent Systems (2023).
 2. *Abhijith Roy and Gerard Deepak*, **[Semantically Driven Model for Web Image Tagging using Diverse Tag Selection for Medical Images](pdf/SDDS3.pdf)**, NaBIC (2023).
 
-## Preprints
-1. *Abhijith Roy and Gerard Deepak*, **Video Recommendation Encompassing Semantics Driven Optimisation**
-2. *Abhijith Roy and Gerard Deepak*, **Document Recommendation using Semantic AI infused MapReduce**
-3. *Abhijith Roy and Gerard Deepak*, **Knowledge Graph synthesis from Metadata using Inferential Semantics and Preferential Learning**
-4. *Abhijith Roy and Gerard Deepak*, **Web Page Retrieval using Clustering Driven Ontology Consolidation**
-
+## Projects
+1. **[Building Language Models from scratch.]**
+2. **[Transformers for Machine Translation]**
+3. **[Soft Prompting using GPT-2 model]**
 
 
