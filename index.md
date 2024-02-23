@@ -29,8 +29,8 @@ B.Tech., Computer Science and Engineering | National Institute of Technology, Tr
 2. *Abhijith Roy and Gerard Deepak*, **[Semantically Driven Model for Web Image Tagging using Diverse Tag Selection for Medical Images](pdf/SDDS3.pdf)**, NaBIC (2023).
 
 ## Projects
-1. **[Building Language Models from scratch.]**
-2. **[Transformers for Machine Translation]**
-3. **[Soft Prompting using GPT-2 model]**
+1. **[Building Language Models from scratch](https://github.com/11AbhijithROY/LanguageModels/blob/a8d46115b7eab885876fd18eca11e47dc78b455b/LanguageModels.ipynb)**
+2. **[Transformers for Machine Translation](asd)**
+3. **[Soft Prompting using GPT-2 model](asds)**
 
 
