@@ -30,7 +30,7 @@ B.Tech., Computer Science and Engineering | National Institute of Technology, Tr
 
 ## Projects
 1. **[Building Language Models from scratch](https://github.com/11AbhijithROY/LanguageModels/blob/a8d46115b7eab885876fd18eca11e47dc78b455b/LanguageModels.ipynb)**
-2. **[Transformers for Machine Translation](asd)**
-3. **[Soft Prompting using GPT-2 model](asds)**
+2. **[Transformers for Machine Translation](https://github.com/11AbhijithROY/MTTransformers/blob/2c0805b7bf4de0c918f96b06b3ff895e8b8ae5f3/TransformersforMachineTranslation.ipynb)**
+3. **[Soft Prompting using GPT-2 model](https://github.com/11AbhijithROY/SoftPrompting)**
 
 
