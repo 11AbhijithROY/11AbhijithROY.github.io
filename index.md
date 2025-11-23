@@ -11,6 +11,8 @@ I also like to pictures of the sky and give [movie reviews](https://letterboxd.c
 - Designed and deployed scalable indexing algorithms for skill–job title mapping as FastAPI microservices, incorporating precision@k and CTR tracking.
 - Leading a team of interns to develop ML lifecycles and taxonomies for personalized job and skill recommendation pipelines.
 - Prototyping a GPT-4–based job pathway predictor using Australian labour datasets and graph edge-removal algorithms for career mapping.
+
+  
 **AI Consultant @ Client, Melbourne (_October 2025 - Present_)**
 
 - Built a Retrieval-Augmented Generation (RAG) prototype using vector databases and task embeddings to improve LLM-driven task retrieval and generation.
