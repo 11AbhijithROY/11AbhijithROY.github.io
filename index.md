@@ -2,7 +2,7 @@
 
 #### I'm a Senior AI/ML Engineer/Team Lead at JobSciences, a University of Melbourne startup helping students and young working professionals find their career path in life. I have over two years experience as an AI/ML Engineer working with structured and unstructured healthcare data at the second largest US healthcare company (Elevance Health). My mission with data science and machine learning lies at the intersection of data, policy planning and sociology, helping communities, public and private institutions make data driver decisions and make better policies. My research interests lies broadly in Natural Language Processing, particularly in Representation Learning, Ontology Engineering, and Ethical AI. I was advised by [Dr. A. Santhanavijayan](https://nitt.irins.org/profile/93079) during my undergraduate thesis and [Dr. Gerard Deepak](https://scholar.google.com/citations?user=miP5DQ8AAAAJ&hl=en) during my time as a research assistant at NIT, Trichy. 
 
-I also like to pictures of the sky and give [movie reviews](https://letterboxd.com/feluba/). For a more comprehensive read, check out my [CV](pdf/abhijithscv.pdf). 
+I also like to pictures of the sky and give [movie reviews](https://letterboxd.com/feluba/). For a more comprehensive read, check out my [CV](pdf/AbhijithRoy_AIML.pdf). 
 
 ## Industry Experience
 
